@@ -1,0 +1,18 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: field_group
+  fields:
+  - type: text
+    label: Title
+    name: header_title1
+    config:
+      required: true
+  - type: text
+    label: Subtext
+    name: header_subtext1
+    config:
+      required: true
+  label: Header Slide 1
+  name: header_slide_1
