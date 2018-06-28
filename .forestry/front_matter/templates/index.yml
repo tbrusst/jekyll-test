@@ -8,5 +8,9 @@ fields:
   name: web_page_title
   config:
     required: true
+- type: file
+  label: Find Community Image
+  name: find_community_image
+  default: "/uploads/luna-tenants-cooking.jpg"
 pages:
 - index.md
