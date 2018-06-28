@@ -1,0 +1,10 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: author
+  label: Author
+  name: author
+  config:
+    required: true
