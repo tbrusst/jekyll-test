@@ -3,7 +3,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: Luna On Pine | Title
+  default: ''
   label: Web Page Title
   name: web_page_title
   config:
@@ -11,6 +11,6 @@ fields:
 - type: file
   label: Find Community Image
   name: find_community_image
-  default: "/uploads/luna-tenants-cooking.jpg"
+  default: ''
 pages:
 - index.md
