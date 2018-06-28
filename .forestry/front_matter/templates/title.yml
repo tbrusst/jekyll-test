@@ -1,0 +1,10 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Luna On Pine
+  label: Web Page Title
+  name: web_page_title
+  config:
+    required: true
