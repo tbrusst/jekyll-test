@@ -8,3 +8,5 @@ fields:
   name: web_page_title
   config:
     required: true
+pages:
+- index.md
