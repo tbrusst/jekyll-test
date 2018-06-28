@@ -1,0 +1,12 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: author
+  label: Author
+  name: author
+  config:
+    required: true
+pages:
+- _posts/2018-06-28-hello-world.md
