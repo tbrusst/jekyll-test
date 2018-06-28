@@ -16,3 +16,5 @@ fields:
       required: true
   label: Header Slide 1
   name: header_slide_1
+pages:
+- index.md

@@ -12,5 +12,3 @@ fields:
   label: Find Community Image
   name: find_community_image
   default: ''
-pages:
-- index.md
