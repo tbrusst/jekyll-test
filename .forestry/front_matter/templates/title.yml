@@ -3,7 +3,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: Luna On Pine
+  default: Luna On Pine | Title
   label: Web Page Title
   name: web_page_title
   config:
