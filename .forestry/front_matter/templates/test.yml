@@ -8,3 +8,5 @@ fields:
   name: author
   config:
     required: true
+pages:
+- _posts/hello-world.md
